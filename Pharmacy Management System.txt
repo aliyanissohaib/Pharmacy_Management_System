@@ -3,7 +3,7 @@ Pharmacy Management System
 -----------------------------------------------------------------------------
 
 Admin:
-	1.See Dashboard
+	1.
 	2.See all Manager, Add Manager, Edit Manager, Delete Manager
 	3.See all Pharmacist, Add Pharmacist, Edit Parmacist, Delete Pharmacist
 	4.See all Salesman, Add Salesman, Edit Salesman, Delete Salesman

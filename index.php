@@ -615,7 +615,7 @@
                             </form>
                         </div>
 
-                    </div>aaaa
+                    </div>
                 <?php }?>
 
                 <?php if ( 'editSalesman' == $action ) {

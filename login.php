@@ -6,7 +6,7 @@
         header( "location:index.php" );
         die();
     }
-    jhjhjhjh
+    jhjhjhj
 
 ?>
 

@@ -611,7 +611,7 @@
                                     <div class="col col-12">
                                         <input type="submit" value="Submit">
                                     </div>
-                                </div>
+                                
                             </form>
                         </div>
 

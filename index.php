@@ -623,7 +623,7 @@
                         $selectSalesman = "SELECT * FROM salesmans WHERE id='{$salesmanID}'";
                         $result = mysqli_query( $connection, $selectSalesman );
 
-                    $salesman = mysqli_fetch_assoc( $result );?>
+                    $salesman = mysqli_fech_assoc( $result );?>
                     <div class="addManager">
                         <div class="main__form">
                             <div class="main__form--title text-center">Update Salesman</div>

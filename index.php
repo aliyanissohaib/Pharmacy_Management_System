@@ -608,7 +608,7 @@
                                         </label>
                                     </div>
                                     <input type="hidden" name="action" value="addSalesman">
-                                    <div class=-12">
+                                    <div class="col col-12">
                                         <input type="submit" value="Submit">
                                     </div>
                                 </div>

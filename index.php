@@ -618,7 +618,7 @@
                     </div>
                 <?php }?>
 
-                <?php if ( 'editSalesman' == $action ) {
+                <?php if ( 'editesman' == $action ) {
                         $salesmanID = $_REQUEST['id'];
                         $selectSalesman = "SELECT * FROM salesmans WHERE id='{$salesmanID}'";
                         $result = mysqli_query( $connection, $selectSalesman );

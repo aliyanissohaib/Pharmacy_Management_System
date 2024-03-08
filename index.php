@@ -602,7 +602,7 @@
                                         </label>
                                     </div>
                                     <div class="col col-12">
-                                        <label class="input">
+                                        <label input">
                                             <i id="left" class="fas fa-key"></i>
                                             <input id="pwdinput" type="password" name="password" placeholder="Password" required>
                                         </label>
